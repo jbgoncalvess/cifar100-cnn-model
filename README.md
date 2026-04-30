@@ -1,8 +1,16 @@
 # Classificação de Imagens CIFAR-100 com CNN Customizada
 
-> Trabalho Prático de Redes Neurais Convolucionais (CNNs) para a disciplina de **IA na Borda**.
+> **Trabalho Prático de Redes Neurais Convolucionais (CNNs)** desenvolvido como requisito da disciplina de **Inteligência Artificial na Borda (IA na Borda)**.
 > 
-> **Aluno:** Jardel Gonçalves | **Professor:** Dr. Roderval Marcelino
+> **Instituição:** Universidade Federal de Santa Catarina (UFSC) - Campus Araranguá
+> 
+> **Programa:** Pós-Graduação em Tecnologias da Informação e Comunicação (PPGTIC)
+>
+> **Docente:** Prof. Dr. Roderval Marcelino
+>
+> **Discente:** Jardel Gonçalves
+>
+> **Tecnologias:** Python, Keras/TensorFlow, Google Colab
 
 ---
 
@@ -67,8 +75,3 @@ A engenharia deste modelo foi diretamente inspirada por avanços documentados na
 
 
 ---
-Este projeto foi desenvolvido como requisito prático da disciplina de **Inteligência Artificial na Borda (IA na Borda)**, pertencente ao **Programa de Pós-Graduação em Tecnologias da Informação e Comunicação (PPGTIC)** da **Universidade Federal de Santa Catarina (UFSC) - Campus Araranguá**.
-
-* **Docente:** Prof. Dr. Roderval Marcelino
-* **Discente:** Jardel Gonçalves
-* **Tecnologias utilizadas:** Python, Keras/TensorFlow, Google Colab
